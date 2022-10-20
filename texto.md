@@ -24,6 +24,4 @@ ver el historial de comit
 > git pull
 dsks alndlaskdnaskdasdaskdnsakldnskldnaskdnasds
 
-neqjllllllllllllllllllllllllllllllllllllllllllllllllf onsaSass+
-
-git@github.com:JoseLuisUicab/cursogit.git
+neqjllllllllllllllllllllllllllllllllllllllllllllllllf onsaSass
